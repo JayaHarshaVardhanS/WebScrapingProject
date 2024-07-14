@@ -108,8 +108,8 @@ MiniProject/
 2. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/Sr1l1kh1ta/Project.git
-   cd Project
+   git clone https://github.com/JayaHarshaVardhanS/WebScrapingProject.git
+   cd WebScrapingProject
    ```
 
 3. \*Install Dependencies\*\*:
